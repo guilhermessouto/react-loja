@@ -1,0 +1,21 @@
+header{
+    background-color: darkgoldenrod;
+    padding: 10px;
+}
+
+header h1{
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+header ul{
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+    margin: auto;
+}
+
+header ul li p{
+    font-size: 1.1em;
+    color: black;
+}
